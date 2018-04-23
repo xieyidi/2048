@@ -7,7 +7,13 @@
 用JavaScript实现一个[“2048游戏”](https://baike.so.com/doc/9204693-9537967.html)
  
 
-![2048](https://p2.ssl.qhimg.com/t016b5cbd7e885bb0e5.png)
+![2048](http://m.qpic.cn/psb?/V10amSkx023jKm/9bkrG3.v0Pd*iPhN3szX2FhNXlpc1dMYfDmFcOqXFhs!/b/dDABAAAAAAAA&bo=1QEMAgAAAAARB.o!&rf=viewer_4)
+
+###小编留言
+玩家每一次只能进行【上下左右】的操作
+每次操作需要等待新的方块生成 方可进行下一次操作
+方块颜色等级 两个数字为一阶段
+刷新页面重新开始游戏
 
 ### 要求
 
